@@ -63,3 +63,7 @@ and process data and/or is built using React. As part of this deliverable, stude
 
 ### Instructor information
 Nynne Just Christoffersen is a Copenhagen based software developer with a background in art and design history. She currently works as a fullstack developer, specializing in web perfromance. Over the last couple of years, she has been an active member in sevaral communities in Copenhagen, particularly those that aim at mentoring and encouraging newcomers to the field. She is a director of the board at [Hack Your Future](https://www.hackyourfuture.dk/), is the founding organiser of Rails Girls Copenhagen, organise Google's Women Techmakers program in Copenhagen and is a regular contributor to the tech collective [Cybernauterne](https://cybernauterne.dk/). She also host discussions on tech and society in CPH Tech Books & Film.
+
+## Special Thanks
+
+This course is leaning heavily on the curicculum the instructor has helped teach and develop at [Hack Your Future Copenhagen](https://github.com/HackYourFuture-CPH/curriculum). The course has also benefited from encouragement and support from many members of the community. Many thanks!
