@@ -7,6 +7,9 @@
    - Where to write it?
    - The box model
    - The cascading effect
+2. Forms
+   - Crash course
+   - Validation
 
 
 ## 1. Introduction to CSS
@@ -48,7 +51,11 @@ Read the following articles to learn about it:
 - [The "C" in CSS](https://css-tricks.com/the-c-in-css-the-cascade/).
 - [How CSS works: understanding the cascade](https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8)
 
+## 2. Forms
 
+### Crash course
+
+### Validation
 
 ## Reading
 
