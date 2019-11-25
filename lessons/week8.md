@@ -1,32 +1,6 @@
 # CSS Layout and Positioning, Responsive Design
-
-1. CSS Frameworks
-   - Why use a framework?
-   - Most popular frameworks
-   - Framework vs. custom
-2. Working with the browser
-   - What is a web browser?
-   - Choosing the right web browser
-   - How to use the inspector
-   - Useful browser extensions
- 3. More advanced CSS
-  - Flexbox
-  - Pseudo class selectors
-  - Media queries
   
-## 1. CSS Frameworks
-
-In order to explain CSS frameworks, we first must understand what a framework is. Let's explain using an analogy.
-
-Let's suppose you want to make a ginger tea on daily basis. You do this with several ingredients: water, pieces of ginger and sugar. Doing so you will find it is really difficult to put all ingredients in the right proportions all the time.
-
-One morning you come up with idea of mixing all the ingredients in one jar in the correct proportion, such that every spoon will serve the right amount to make the tea.
-
-This jar is your framework. By using it you don't have to think about what the ingredients, nor the proportions. Only about how much you want to use it to fit your needs.
-
-> Tip: the concept of a framework will come back many times, as we don't want to reinvent the wheel everytime we create a new application. The point of any piece of software is to write it as simply as possible, and a framework really helps with that. So keep it in mind!
-
-### Why use a CSS framework?
+## CSS Frameworks
 
 A CSS framework allows you to style your HTML reliably, by making use of pre-defined CSS rules. This way you don't have to think about what custom CSS you have to write to make something the way you want. This is useful mainly to speed up development.
 
@@ -51,7 +25,72 @@ Keep in mind that a framework should be there only to assist, not compensate. Re
 - [Are CSS Frameworks Bad?](https://www.youtube.com/watch?v=VlY5CfkL760)
 - [Discussing the Pros and Cons of Using a CSS Framework](https://speckyboy.com/discussing-the-pros-and-cons-of-using-a-css-framework/)
 
-## 2. Working with the browser
+### Flexible organizing with flexbox
+
+CSS is used to order and style HTML elements. A big part of this is organising elements in a visually attractive way. This can be done using Flexbox.
+
+What it does is helping you to think according to 'grid-based web design': elements are not randomly placed on the page, but are neatly organised along a grid.
+
+Read the following to learn more about 'grid-based web design':
+
+- [Introduction to grids in web design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521)
+- [Intro to Web Design Grids](https://www.youtube.com/watch?v=gjYZoPEk0ow)
+
+Once you understand this way of thinking you'll know why it makes sense to know Flexbox.
+
+In order to make use of it we have to access it through the `display` CSS property:
+
+```css
+display: flex;
+```
+
+This will give us the Flexbox-specific properties, so we can develop clean and organised CSS. Check the following links to understand how this is done:
+
+- [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
+- [CSS Flexbox Tutorial for Beginners 1/2 ](https://www.youtube.com/watch?v=siKKg8Y_tQY)
+
+### Pseudo class selectors
+
+Every HTML element can be in different states. The default state is when an element is untouched. You already know how to style for this.
+
+```css
+p {
+  color: white;
+}
+```
+
+There are times when a user interacts with an element. For example: clicking a button that opens another page. As frontend developers we need to give the user feedback on that particular action. When they place the mouse on top of the button it lights up (we call this a `hover state`). We need to write instructions for that to happen.
+
+Like the hover state there are others as well: click, focus, visited, and others. For most of these element states we have special selectors. Read the following article to learn about them. Once you do try the out for yourself!:
+
+- [Pseudo class selectors](https://css-tricks.com/pseudo-class-selectors/)
+
+### Responsive design with media queries
+
+Nowadays people use different devices to access websites: desktops, tablets and mobile phones of all different sizes. Responsive design is a way to put together a website so that it automatically scales its content and elements to match the screen size of the viewer. It prevents that images are larger than the screen width, so visitors on mobile devices will see a visually attractive website as well
+
+For more information about responsive design, check this article: [Responsive Design](https://internetingishard.com/html-and-css/responsive-design/).
+
+The primary way of making a responsive website is by writing custom CSS code that makes it so. This can be done using `media queries`: CSS instructions that only apply to certain screen sizes.
+
+Start reading about media queries here: [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html).
+
+## Class Material
+
+- [What are the benefits of using a CSS framework](https://css-tricks.com/what-are-the-benefits-of-using-a-css-framework/)
+- [CSS frameworks](https://www.youtube.com/watch?v=AMDx0IIgiK4)
+- [Are CSS Frameworks Bad?](https://www.youtube.com/watch?v=VlY5CfkL760)
+- [Discussing the Pros and Cons of Using a CSS Framework](https://speckyboy.com/discussing-the-pros-and-cons-of-using-a-css-framework/)
+- [Introduction to grids in web design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521)
+- [Intro to Web Design Grids](https://www.youtube.com/watch?v=gjYZoPEk0ow)
+- [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
+- [CSS Flexbox Tutorial for Beginners 1/2 ](https://www.youtube.com/watch?v=siKKg8Y_tQY)
+- [Pseudo class selectors](https://css-tricks.com/pseudo-class-selectors/)
+
+
+## Additional Material
+
+## Working with the browser
 
 ### What is a web browser?
 
@@ -105,61 +144,3 @@ Extensions:
 - When developing you'll be using dummy text to populate your elements. Enter [Loren Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en%20)
 
 There are many moreof these extensions and we encourage you to explore. See what fits your needs!
-   
-## 3. More advanced CSS
-
-By now you've had some practice with CSS. In the following sections you'll learn about some more essentials concepts in order to write modern stylesheets for the web!
-
-### Flexible organizing with flexbox
-
-CSS is used to order and style HTML elements. A big part of this is organising elements in a visually attractive way. This can be done using Flexbox.
-
-What it does is helping you to think according to 'grid-based web design': elements are not randomly placed on the page, but are neatly organised along a grid.
-
-Read the following to learn more about 'grid-based web design':
-
-- [Introduction to grids in web design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521)
-- [Intro to Web Design Grids](https://www.youtube.com/watch?v=gjYZoPEk0ow)
-
-Once you understand this way of thinking you'll know why it makes sense to know Flexbox.
-
-In order to make use of it we have to access it through the `display` CSS property:
-
-```css
-display: flex;
-```
-
-This will give us the Flexbox-specific properties, so we can develop clean and organised CSS. Check the following links to understand how this is done:
-
-- [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
-- [CSS Flexbox Tutorial for Beginners 1/2 ](https://www.youtube.com/watch?v=siKKg8Y_tQY)
-
-### Pseudo class selectors
-
-Every HTML element can be in different states. The default state is when an element is untouched. You already know how to style for this.
-
-```css
-p {
-  color: white;
-}
-```
-
-There are times when a user interacts with an element. For example: clicking a button that opens another page. As frontend developers we need to give the user feedback on that particular action. When they place the mouse on top of the button it lights up (we call this a `hover state`). We need to write instructions for that to happen.
-
-Like the hover state there are others as well: click, focus, visited, and others. For most of these element states we have special selectors. Read the following article to learn about them. Once you do try the out for yourself!:
-
-- [Pseudo class selectors](https://css-tricks.com/pseudo-class-selectors/)
-
-### Responsive design with media queries
-
-Nowadays people use different devices to access websites: desktops, tablets and mobile phones of all different sizes. Responsive design is a way to put together a website so that it automatically scales its content and elements to match the screen size of the viewer. It prevents that images are larger than the screen width, so visitors on mobile devices will see a visually attractive website as well
-
-For more information about responsive design, check this article: [Responsive Design](https://internetingishard.com/html-and-css/responsive-design/).
-
-The primary way of making a responsive website is by writing custom CSS code that makes it so. This can be done using `media queries`: CSS instructions that only apply to certain screen sizes.
-
-Start reading about media queries here: [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html).
-
-## Reading
-
-## Additional Reading
