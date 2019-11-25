@@ -1,10 +1,6 @@
 # Introduction to JavaScript
 
-# Reading Material JavaScript1 Week 1
-
 ## Agenda
-
-These are the topics for week 1:
 
 1. What is programming?
    - Introduction
