@@ -1,30 +1,6 @@
 # Introduction, HTML syntax, structure and Semantics
 
-## Agenda
-
-1. What is the command line interface (CLI)?
-2. Introduction to HTML:
-   - Crash course
-   - The commonly used tags
-   - Semantic HTML
-
-## 1. What is the command line interface (CLI)?
-
-The Command Line interface (also known as CLI or shell) is a way to navigate through your computer's content (media, folders, applications, etc.) without a visual user interface. It allows you to type text commands to perform specific tasks. Since you can directly control the computer by typing, many tasks can be performed more quickly, and some tasks can be automated with special commands that loop through and perform the same action on many files.
-
-As a beginning programmer it's important to get familiar with it, as it will teach you how computers work: As a tool that you give instructions to. This is not any different from programming for web development; but instead of writing instructions to the computer directly, you write instructions for browsers to execute.
-
-Please install [Git for Windows] (https://gitforwindows.org) which comes with
-an application called *Git BASH* which simulates frequently used CLI commands.
-
-For more information, check the following resources and code along:
-
-- [Command Line Crash Course](https://www.youtube.com/watch?v=yz7nYlnXLfE)
-- [A Command Line Primer for Beginners](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
-
-## 2. Introduction to HTML
-
-### Crash course
+## Introduction to HTML
 
 HTML is the foundation of web development. It is an acronym for **HyperText Markup Language**. It is used to structure content on a webpage. What do we mean by content? Plain text, images, videos, links to other websites, etc. The structure gives content meaning by defining that content as, for example, headings, paragraphs, or images.
 
@@ -54,3 +30,18 @@ Take a look at the following resource to learn more about semantic HTML: [Semant
 ## Reading
 
 ## Additional Reading
+
+
+## What is the command line interface (CLI)?
+
+The Command Line interface (also known as CLI or shell) is a way to navigate through your computer's content (media, folders, applications, etc.) without a visual user interface. It allows you to type text commands to perform specific tasks. Since you can directly control the computer by typing, many tasks can be performed more quickly, and some tasks can be automated with special commands that loop through and perform the same action on many files.
+
+As a beginning programmer it's important to get familiar with it, as it will teach you how computers work: As a tool that you give instructions to. This is not any different from programming for web development; but instead of writing instructions to the computer directly, you write instructions for browsers to execute.
+
+Please install [Git for Windows] (https://gitforwindows.org) which comes with
+an application called *Git BASH* which simulates frequently used CLI commands.
+
+For more information, check the following resources and code along:
+
+- [Command Line Crash Course](https://www.youtube.com/watch?v=yz7nYlnXLfE)
+- [A Command Line Primer for Beginners](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
