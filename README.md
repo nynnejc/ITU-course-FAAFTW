@@ -23,9 +23,9 @@ Frameworks and Architectures for the Web spring 2020
 
 Throughout the semester, students are asked to produce three major deliverables that will form the basis of their oral examination. The deliverables are:
 
-• Web Project - Design, Wireframes and Interactive Prototype
-• Web Project - Implementation
-• Creative Implementation of a Web App
+- Web Project - Design, Wireframes and Interactive Prototype
+- Web Project - Implementation
+- Creative Implementation of a Web App
 
 ### Web Project - Design, Wireframes and Interactive Prototype
 
