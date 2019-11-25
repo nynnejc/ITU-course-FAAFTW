@@ -17,4 +17,4 @@ Frameworks and Architectures for the Web spring 2020
 | 16 | TypeScript and Object-Oriented Programming |
 | 17 | Progressive Web Applications |
 | 18 | TBA |
-| 19 | TBA |
+| 19 | Web Performance |
