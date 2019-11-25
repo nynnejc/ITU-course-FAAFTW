@@ -66,4 +66,4 @@ Nynne Just Christoffersen is a Copenhagen based software developer with a backgr
 
 ## Special Thanks
 
-This course is leaning heavily on the curicculum the instructor has helped teach and develop at [Hack Your Future Copenhagen](https://github.com/HackYourFuture-CPH/curriculum). The course has also benefited from encouragement and support from members of the Copenhagen web developer community. Many thanks!
+This course is leaning heavily on the curicculum the instructor has helped teach and develop at [Hack Your Future Copenhagen](https://github.com/HackYourFuture-CPH/curriculum), which has been made in close collaboration with [Hack Your Future Amsterdam](https://github.com/HackYourFuture/curriculum). The course has also benefited from encouragement and support from members of the Copenhagen web developer community. Many thanks!
