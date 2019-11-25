@@ -3,7 +3,7 @@
 
 ### Responsive design with media queries
 
-Nowadays people use different devices to access websites: desktops, tablets and mobile phones of all different sizes. Responsive design is a way to put together a website so that it automatically scales its content and elements to match the screen size of the viewer. It prevents that images are larger than the screen width, so visitors on mobile devices will see a visually attractive website as well
+Web developers must learn to design for various device sizes: desktops, tablets and mobile phones. Responsive design is a way to put together a website so that it automatically scales its content and elements to match the screen size of the viewer. It prevents that images are larger than the screen width, so visitors on mobile devices will see a visually attractive website as well
 
 For more information about responsive design, check this article: [Responsive Design](https://internetingishard.com/html-and-css/responsive-design/).
 
@@ -12,6 +12,8 @@ The primary way of making a responsive website is by writing custom CSS code tha
 Start reading about media queries here: [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html).
 
 
-## Reading
+## Class Material
+-  [Responsive Design](https://internetingishard.com/html-and-css/responsive-design/)
+- [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html)
 
-## Additional Reading
+## Additional Material
