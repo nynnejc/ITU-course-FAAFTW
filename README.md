@@ -3,9 +3,9 @@ Frameworks and Architectures for the Web spring 2020
 
 This class is for MA students with no prior experience with programming, welcoming creative practitioners, people from the humanities and any other kind of academic disciplies with the aim of capturing their interest in the world of web development. 
 
-Learning objective: In this class, students will learn about designing and building a web application. We will cover the basics of designing for the web: responsive design, accesability, web perfomance. Students are expected to engage in a critical discussion about the topic.
+*Learning objective:* In this class, students will learn about designing and building a web application. We will cover the basics of designing for the web: responsive design, accesability, web perfomance. Students are expected to engage in a critical discussion about the topic.
 
-Learning outcome: Students will become knowledgeable about various ways of designing prototyping and implementing their ideas by building their own web application.
+*Learning outcome:* Students will become knowledgeable about various ways of designing prototyping and implementing their ideas by building their own web application.
 
 | Week | Lesson | Deliverable |
 | --- | --- | --- |
