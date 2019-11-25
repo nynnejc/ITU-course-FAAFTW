@@ -27,10 +27,14 @@ This leads to the following insight about writing code: while code is written to
 Take a look at the following resource to learn more about semantic HTML: [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
 
 
-## Reading
+## Class Material
+
+- [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [The Most Commonly Used HTML Tags](https://www.geeksforgeeks.org/most-commonly-used-tags-in-html/)
+- [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
+
 
 ## Additional Reading
-
 
 ## What is the command line interface (CLI)?
 
