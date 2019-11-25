@@ -3,7 +3,7 @@ Frameworks and Architectures for the Web spring 2020
 
 | Week | Lesson |
 | --- | --- |
-| 5 | Introduction, HTML syntax, structure and Semantics |
+| 5 | [Introduction, HTML syntax, structure and Semantics](./lessons/week5.md) |
 | 6 | Interface, Principles, Design Patterns and Aesthetics |
 | 7 | HTML and CSS Preliminaries, Forms and Data Validation |
 | 8 | CSS Layout and Positioning, Responsive Design |
