@@ -6,4 +6,8 @@
 
 - [JavaScript Introduction at MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction) (10 min)
 
+- [Functions](http://javascript.info/function-basics) (15 min)
+- [Conditions](http://javascript.info/ifelse) (10 min)
+- Read from [For loops](http://javascript.info/while-for#the-for-loop) to and with  [for loops continue](http://javascript.info/while-for#continue) (10 min)
+
 ## Additional Reading
