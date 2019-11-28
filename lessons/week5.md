@@ -3,14 +3,9 @@
 ## Introduction to HTML
 
 HTML is the foundation of web development. It is an acronym for **HyperText Markup Language**. It is used to structure content on a webpage. What do we mean by content? Plain text, images, videos, links to other websites, etc. The structure gives content meaning by defining that content as, for example, headings, paragraphs, or images.
-
-In order to learn HTML properly it's important to know what is is. Go through the following video to learn more about it:
-
-- [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
+[HTML article](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ### The commonly used tags
-
-If at any point you came to believe you would have to learn a whole list of tags by heart in order to write great HTML, you are in luck: that's not needed.
 
 The most important thing to know is that the tags are used to **structure content**, or in other words: to decide how each part is organized in order to more easily understand what the page is trying to communicate.
 
@@ -28,8 +23,7 @@ Take a look at the following resource to learn more about semantic HTML: [Semant
 
 
 ## Class Material
-
-- [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [HTML article](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [The Most Commonly Used HTML Tags](https://www.geeksforgeeks.org/most-commonly-used-tags-in-html/)
 - [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
 
@@ -41,9 +35,6 @@ Take a look at the following resource to learn more about semantic HTML: [Semant
 The Command Line interface (also known as CLI or shell) is a way to navigate through your computer's content (media, folders, applications, etc.) without a visual user interface. It allows you to type text commands to perform specific tasks. Since you can directly control the computer by typing, many tasks can be performed more quickly, and some tasks can be automated with special commands that loop through and perform the same action on many files.
 
 As a beginning programmer it's important to get familiar with it, as it will teach you how computers work: As a tool that you give instructions to. This is not any different from programming for web development; but instead of writing instructions to the computer directly, you write instructions for browsers to execute.
-
-Please install [Git for Windows] (https://gitforwindows.org) which comes with
-an application called *Git BASH* which simulates frequently used CLI commands.
 
 For more information, check the following resources and code along:
 
