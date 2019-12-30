@@ -6,4 +6,3 @@ For this part of the Web project, you will use design, layout and prototyping to
 
 The final deliverable for this item of project work is a clickable interactive prototype of the website which covers both desktop and mobile design. The prototype will consist of screen mockups and visual designs — no code will be written for this project deliverable.
 
-This deliverable forms part of your major portfolio submission for this course. You can optionally submit this deliverable for written feedback. If you would like written feedback for this deliverable, please submit your deliverable via the LearnIT site by no later than Monday 25th February, 09:00 (beginning of Week 9). If submitted by this date, you will receive written feedback for this project by the beginning of Week 10.
