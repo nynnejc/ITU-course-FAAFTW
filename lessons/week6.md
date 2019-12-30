@@ -41,6 +41,10 @@ An understanding of Gestalt principles simplifies the design process, allowing y
 
 - [Kurt Kofka: Principles of Gestalt Psychology, 1999](https://books.google.dk/books/about/Principles_of_Gestalt_Psychology.html?id=cLnqI3dvi4kC&redir_esc=y)
 
+## Design Principles
+
+Design Elements vs. Design Principles: Design principles are rules that you should always consider when creating your design, whereas design elements are the actual components that make up a design. As a designer, it’s important to understand the various elements of design, while considering best practice principles in applying them. 
+
 ## Figma 
 
 Figma is used to design, prototype and share designs in real time, draw lines, shapes, boxes and place content, images and text, layout using gridlines and auto-layout tools, scale designs and components so it is easy / possible to create responsive designs.Figma can also be used to abstract commonly used pieces of a design (such as buttons or menu bars) into components: therefore promoting reuse and principles of DRY (“Don’t Repeat Yourself”).
