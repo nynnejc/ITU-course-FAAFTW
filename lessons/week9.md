@@ -139,7 +139,7 @@ A callback is a function that will be executed when an asynchronous operation ha
 A callback is passed as an argument to an asynchronous operation. Normally, this is passed as the last argument of the function. Doing this it’s a good practice, so keep that in mind. 
 - [Understanding Callbacks and Promises](https://dev.to/_ferh97/understanding-callbacks-and-promises-3fd5)
 
-## Readins
+## Reading
 - [SpeakingJS](http://speakingjs.com/es5/ch01.html) up to and including the *Strings* chapter.
 - [JavaScript Introduction at MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
 - [Functions](http://javascript.info/function-basics)
