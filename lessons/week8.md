@@ -1,4 +1,6 @@
 # CSS Layout and Positioning, Responsive Design
+
+This lecture provides a more in-depth focus on how to use CSS to implement your designs and layout content on the Web and introduces the concept of the CSS box model and the use of different positioning schemes. It also provides an introduction to the various responsive design strategies used to ensure that content on the Web is viewable on all devices - both desktop and mobile - and introduces Bootstrap: a column-based CSS framework for laying out content on the Web.
   
 ## CSS Frameworks
 
