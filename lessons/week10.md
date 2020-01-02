@@ -15,7 +15,7 @@ In Web Applications, we add interactivity through the use of events. Events are 
 ## Reading
 - [DOM (Document Object Model](https://developer.mozilla.org/en-US/docs/Glossary/DOM)
 - [Code Degugging Using the Browser](http://javascript.info/debugging-chrome)
-- [Attaching an event](https://www.w3schools.com/jsref/met_element_addeventlistener.asp) (5 min)
+- [Attaching an event](https://www.w3schools.com/jsref/met_element_addeventlistener.asp)
 
 
 ## Additional Reading
