@@ -1,6 +1,6 @@
 # Introduction, HTML syntax, structure and Semantics
 
-In this lecture, you'll be given an overview of the course and its expectations. We'll briefly talk about the deliverables and exam format for the course, we can showcase some projects from last year so you can get an idea of what you can achieve by completing this course. We'll also provide a very brief introduction to HTML syntax, structure and semantics, familiarise yourself with a platform where you can experiment with HTML, and start ideating design ideas for your first Major Web project.
+In this lecture, you'll be given an overview of the course and its expectations. We'll briefly talk about the deliverables and exam format for the course. We'll also provide a very brief introduction to HTML syntax, structure and semantics, familiarise yourself with a platform where you can experiment with HTML, and start ideating design ideas for your first Major Web project.
 
 ## Introduction to HTML
 
@@ -46,12 +46,31 @@ One of the best resources for learning Web development, the Mozilla Developer Ne
 - [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn)
 
 
-
-
-
 ## Additional Reading
 
-## What is the command line interface (CLI)?
+### Where do I write my code? Visual Studio Code
+
+You can write code for the web in any application that allows you to write and save plain text files (such as Notepad or TextEdit). However a code editor is a tool specifically designed for editing code. 
+
+Depending on the the programming language, the code editor highlights special keywords, give suggestions for some extent, adds automatic indentation and sometimes has an integrated command line interface as well.
+
+While your code editor does the basic job of allowing you to write code, it can always be improved to make our lives as programmers easier. Currently, Visual Studio Code is one of the top code editors on the market. There are many cool text editor options out there. However, if you're just getting started with, VSCode is what I reccomend for this course.
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+One of the nice things about VSCode is that we can add `plugins` to make our programming life much easier. Please install the following plugins as well and see for yourself.
+
+- [Live HTML Previewer](https://marketplace.visualstudio.com/items?itemName=hdg.live-html-previewer)
+- [Syntax Highlighter](https://marketplace.visualstudio.com/items?itemName=evgeniypeshkov.syntax-highlighter)
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+For more specific information on how to setup your editor:
+
+- [VSCode Tips](https://github.com/HackYourFuture/fundamentals/tree/master/VSCodeTips)
+
+### What is the command line interface (CLI)?
 
 The Command Line interface (also known as CLI or shell) is a way to navigate through your computer's content (media, folders, applications, etc.) without a visual user interface. It allows you to type text commands to perform specific tasks. Since you can directly control the computer by typing, many tasks can be performed more quickly, and some tasks can be automated with special commands that loop through and perform the same action on many files.
 

@@ -9,21 +9,21 @@ This class is for MA students with no prior experience with programming, welcomi
 
 | Week | Lesson | Deliverable |
 | --- | --- | --- |
-| 5 | [Introduction, HTML syntax, structure and Semantics](./lessons/week5.md) | Web Project - Design, Wireframes and Interactive Prototype |
-| 6 | [Interface, Principles, Design Patterns and Aesthetics](./lessons/week6.md) | Web Project - Design, Wireframes and Interactive Prototype |
-| 7 | [HTML and CSS Preliminaries, Forms and Data Validation](./lessons/week7.md) | Web Project - Design, Wireframes and Interactive Prototype |
-| 8 | [CSS Layout and Positioning, Responsive Design](./lessons/week8.md) | Web Project - Design, Wireframes and Interactive Prototype |
-| 9 |  [Introduction to JavaScript](./lessons/week9.md)| Web Project - Implementation |
-| 10 | [Document Object Model and Events in JavaScript](./lessons/week10.md) | Web Project - Implementation |
-| 11 | [Web Accesibility](./lessons/week11.md) | Web Project - Implementation |
-| 12 | [CSS3 Graphics, Media and Advanced JavaScript](./lessons/week12.md) | Web Project - Implementation |
-| 13 | [React Part I](./lessons/week13.md) | Creative Implementation of a Web App |
-| 14 | [React Part II](./lessons/week14.md) | Creative Implementation of a Web App |
+| 5 | [Introduction, HTML syntax, structure and Semantics](./lessons/lecture-01.md) | Web Project - Design, Wireframes and Interactive Prototype |
+| 6 | [Interface, Principles, Design Patterns and Aesthetics](./lessons/lecture-02.md) | Web Project - Design, Wireframes and Interactive Prototype |
+| 7 | [HTML and CSS Preliminaries, Forms and Data Validation](./lessons/lecture-03.md) | Web Project - Design, Wireframes and Interactive Prototype |
+| 8 | [CSS Layout and Positioning, Responsive Design](./lessons/lecture-04.md) | Web Project - Design, Wireframes and Interactive Prototype |
+| 9 |  [Introduction to JavaScript](./lessons/lecture-05.md)| Web Project - Implementation |
+| 10 | [Document Object Model and Events in JavaScript](./lessons/lecture-06.md) | Web Project - Implementation |
+| 11 | [Web Accesibility](./lessons/lecture-07.md) | Web Project - Implementation |
+| 12 | [CSS3 Graphics, Media and Advanced JavaScript](./lessons/lecture-08.md) | Web Project - Implementation |
+| 13 | [React Part I](./lessons/lecture-09.md) | Creative Implementation of a Web App |
+| 14 | [React Part II](./lessons/lecture-10.md) | Creative Implementation of a Web App |
 | 15 | No Class Easter Break |
-| 16 | [TypeScript and Object-Oriented Programming](./lessons/week16.md) | Creative Implementation of a Web App |
-| 17 | [Progressive Web Applications](./lessons/week17.md) | Creative Implementation of a Web App |
-| 18 | TBA |
-| 19 | [Web Performance](./lessons/week19.md) | Creative Implementation of a Web App |
+| 16 | [TypeScript and Object-Oriented Programming](./lessons/lecture-11.md) | Creative Implementation of a Web App |
+| 17 | [Progressive Web Applications](./lessons/lecture-12.md) | Creative Implementation of a Web App |
+| 18 | [Web Performance](./lessons/lecture-13.md) | Creative Implementation of a Web App |
+| 19 | TBA |
 
 ## Deliverables
 
@@ -66,4 +66,4 @@ Nynne Just Christoffersen is a Copenhagen based software developer with a backgr
 
 ## Special Thanks
 
-This course is leaning heavily on the curicculum the instructor has helped teach and develop at [Hack Your Future Copenhagen](https://github.com/HackYourFuture-CPH/curriculum), which has been made in close collaboration with [Hack Your Future Amsterdam](https://github.com/HackYourFuture/curriculum). This course has also benefitted from inspiration from Rune Madsen's course [Programming Design Systems](https://runemadsen.com/syllabi/programming-design-systems/) and wouldn't have been possible without support from members of the Copenhagen web developer community. Many thanks!
+This course is leaning heavily on the curicculum that was previously used for this class, although this is a new and revised version which has a number of additions. It also takes inspiration from courses the instructor has helped teach and develop at [Hack Your Future Copenhagen](https://github.com/HackYourFuture-CPH/curriculum), which has been made in close collaboration with [Hack Your Future Amsterdam](https://github.com/HackYourFuture/curriculum). A large section of the links section has been adapted from Andreas Mehlsen's comprehensive and well-updated [web skills guide]https://andreasbm.github.io/web-skills/). This course has also benefitted from inspiration from Rune Madsen's course [Programming Design Systems](https://runemadsen.com/syllabi/programming-design-systems/) and wouldn't have been possible without support from members of the Copenhagen web developer community. Many thanks!

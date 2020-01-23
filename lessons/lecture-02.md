@@ -70,3 +70,13 @@ The primary way of making a responsive website is by writing custom CSS code tha
 - [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html)
 
 ## Additional Material
+
+- [All you need to know about colors in UI Design — theory & practice](https://uxdesign.cc/all-you-need-to-know-about-colors-in-ui-design-theory-practice-235179712522)
+- [The Role of Color in UX](https://www.toptal.com/designers/ux/color-in-ux)
+- [Color theory](https://en.wikipedia.org/wiki/Color_theory)
+- [Typography Elements Everyone Needs to Understand](https://medium.com/gravitdesigner/typography-elements-everyone-needs-to-understand-5fdea82f470d)
+- [Google Fonts](https://fonts.google.com/)
+- [A Visual Type Scale](https://type-scale.com/)
+-[font-size](https://css-tricks.com/almanac/properties/f/font-size/)
+- [Complete guide to mobile first design](https://www.justinmind.com/blog/complete-guide-to-mobile-first-design/)
+- [Design an Error Handling System before you structure your App or Software Project (Part I)](https://medium.com/lattice-product-development/design-an-error-handling-system-before-you-structure-your-app-or-software-project-part-i-efe6a1674628)
