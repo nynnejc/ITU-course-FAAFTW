@@ -113,7 +113,7 @@ function Example() {
 - [encapsulation](https://en.wikipedia.org/wiki/Object-oriented_programming#Encapsulation)
 - [OOP](https://developer.mozilla.org/en-US/docs/Glossary/OOP)
 - [class](https://developer.mozilla.org/en-US/docs/Glossary/class)
-- [function](https://developer.mozilla.org/en-US/docs/Glossary/function) that (once called) 
+- [function](https://developer.mozilla.org/en-US/docs/Glossary/function) 
 - [object](https://developer.mozilla.org/en-US/docs/Glossary/object).
 - [Functional Programming](https://www.sitepoint.com/what-is-functional-programming/ )
 - [Higher order functions](https://www.sitepoint.com/higher-order-functions-javascript/)
