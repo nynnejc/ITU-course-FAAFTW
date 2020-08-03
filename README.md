@@ -16,7 +16,7 @@ This class is for MA students with no prior experience with programming, welcomi
 | 9 |  [Introduction to JavaScript](./lessons/lecture-05.md)| Web Project - Implementation |
 | 10 | [Document Object Model and Events in JavaScript](./lessons/lecture-06.md) | Web Project - Implementation |
 | 11 | [Web Accesibility](./lessons/lecture-07.md) | Web Project - Implementation |
-| 12 | [CSS3 Graphics, Media and Advanced JavaScript](./lessons/lecture-08.md) | Web Project - Implementation |
+| 12 | [APIs, JSON, Advanced JavaScript](./lessons/lecture-08.md) | Web Project - Implementation |
 | 13 | [React Part I](./lessons/lecture-09.md) | Creative Implementation of a Web App |
 | 14 | [React Part II](./lessons/lecture-10.md) | Creative Implementation of a Web App |
 | 15 | No Class Easter Break |
