@@ -153,4 +153,3 @@ A callback is passed as an argument to an asynchronous operation. Normally, this
 - [Understanding Callbacks and Promises](https://dev.to/_ferh97/understanding-callbacks-and-promises-3fd5)
 
 
-## Additional Reading
