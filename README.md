@@ -20,8 +20,8 @@ This class is for MA students with no prior experience with programming, welcomi
 | 13 | [React Part I](./lessons/lecture-09.md) | Creative Implementation of a Web App |
 | 14 | [React Part II](./lessons/lecture-10.md) | Creative Implementation of a Web App |
 | 15 | No Class Easter Break |
-| 16 | [TypeScript and Object-Oriented Programming](./lessons/lecture-11.md) | Creative Implementation of a Web App |
-| 17 | [Progressive Web Applications](./lessons/lecture-12.md) | Creative Implementation of a Web App |
+| 16 | [React III](./lessons/lecture-11.md) | Creative Implementation of a Web App |
+| 17 | [Web APIs](./lessons/lecture-12.md) | Creative Implementation of a Web App |
 | 18 | [Web Performance](./lessons/lecture-13.md) | Creative Implementation of a Web App |
 | 19 | TBA |
 
