@@ -1,5 +1,7 @@
 # Web Accesibility
 
+Guest lecturer: Digital Accessibility Specialist Tobias Christian Jensen.
+
 Web Accessibility is important to learn about so that we can make sure that the Web is open and inclusive for all. This class will center around key concepts of accesability.
 
 The Web Content Accessibility Guidelines (WCAG) provide a set of recommendations that make Web content more accessible. These guidelines are very comprehensive and are categorised according to the following principles:
