@@ -1,4 +1,4 @@
-# CSS3 Graphics, Media and Advanced JavaScript
+# APIs, JSON, Advanced JavaScript
 
 This lecture will provide an overview of some of the rich media features of CSS. The lecture will also provide some more in-depth JavaScript topics: map, reduce, functional programming and language features as implemented in the ES6 specification. We will also dive deeper into key JavaScript concepts such as objects, scope, closures and asynchrony.
 
@@ -20,4 +20,3 @@ This lecture will provide an overview of some of the rich media features of CSS.
 - [Classes in JavaScript](https://javascript.info/class)
 - [Map and Reduce in JavaScript](https://www.freecodecamp.org/news/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f/)
 
-## Additional Reading
